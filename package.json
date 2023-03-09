@@ -2,7 +2,7 @@
   "name": "rick-and-morty",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://yurii-bodnar.github.io/rick-and-morty/",
   "dependencies": {
     "@emotion/css": "^11.10.0",
     "@emotion/react": "^11.10.4",
