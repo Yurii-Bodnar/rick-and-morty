@@ -1,5 +1,5 @@
 const App = () => {
-  console.log('hello');
+  //   console.log('hello');
   return <div>App</div>;
 };
 
