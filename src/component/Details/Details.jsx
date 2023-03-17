@@ -69,7 +69,7 @@ const Details = () => {
             </Item>
             <Item>
               <ItemTitle>Type</ItemTitle>
-              <ItemText>{type === '' ? 'unkown' : type}</ItemText>
+              <ItemText>{type === '' ? 'unknown' : type}</ItemText>
             </Item>
           </List>
         </Wrapper>

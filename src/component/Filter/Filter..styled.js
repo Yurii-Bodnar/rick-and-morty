@@ -11,7 +11,6 @@ export const Box = styled.div`
   height: 66px;
 `;
 export const Input = styled.input`
-  /* position: relative; */
   width: 1020px;
   height: 66px;
   border: 1px solid ${p => p.theme.colors.inputColor};

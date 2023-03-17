@@ -1,5 +1,3 @@
-import { dataContext } from '../../App';
-import { useContext } from 'react';
 import {
   Box,
   Img,
@@ -12,8 +10,6 @@ import {
 } from './ListItem.styled';
 
 const ListItem = ({ filteredList, value, data }) => {
-  //   const { data, filteredList, value } = useContext(dataContext);
-  //   const { data } = useContext(dataContext);
   return (
     <Section>
       <List>
